@@ -10,7 +10,7 @@ Gosto de criar produtos escaláveis, com código limpo e arquitetura bem definid
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tommy-jeff&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-navy-three.vercel.app/api?username=tommy-jeff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-jeff&layout=compact&theme=tokyonight" />
 </div>
 
