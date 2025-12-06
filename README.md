@@ -12,6 +12,7 @@
   <img align="center" alt="flutter" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
   <img align="center" alt="kotlin" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="java" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Go" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
 <!--   <img align="right" alt="tailung" width="300" heigth="300" src="https://media1.tenor.com/m/mIZVHmSFE2EAAAAC/waiting-tai-lung.gif"> -->
   <img align="right" alt="allmight" width="300" heigth="300" src="https://media1.tenor.com/m/xajUr6OCTGMAAAAd/all-might-one-for-all.gif">
 </div>
