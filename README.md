@@ -10,6 +10,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="python" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="android" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
   <img align="center" alt="flutter" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="Dart" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" alt="kotlin" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="java" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Go" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
