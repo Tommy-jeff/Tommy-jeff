@@ -1,4 +1,4 @@
-# Hi! I'm Thomas Jefferson  
+# Olá! Eu sou Thomas Jefferson  
 ### Fullstack Mobile Developer | Flutter • Java • Kotlin • Python • Go
 
 Sou desenvolvedor mobile com foco em Flutter e experiência também em Java/Kotlin para Android e Python/Go no backend. Trabalho construindo soluções completas, desde a manutenção de aplicativos em produção até a implementação de novas features, arquiteturas e boas práticas.
